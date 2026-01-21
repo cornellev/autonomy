@@ -1,0 +1,34 @@
+name: Update Status for Milestone Issues (Repo Project V2)
+
+on:
+  issues:
+    types: [opened, edited, labeled, unlabeled]
+  workflow_dispatch: {}
+permissions:
+  contents: read
+
+jobs:
+  update-status:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      # Instllation for token
+      - name: Create GitHub App token
+        id: app-token
+        uses: actions/create-github-app-token@v1
+        with:
+          app-id: ${{ secrets.APP_ID }}
+          private-key: ${{ secrets.APP_PRIVATE_KEY }}
+          owner: cornellev
+
+      - name: Update Project Status if Issue Type matches
+        uses: actions/github-script@v7
+        with:
+          github-token: ${{ steps.app-token.outputs.token }}
+          script: |
+            const { pathToFileURL} = await import('url');
+            const { join } = await import('path');
+            const fileUrl = pathToFileURL(join(process.cwd(), '.github/scripts/update-status.js')).href;
+            const { default: run } = await import(fileUrl);
+            await run({ github, context, core });
