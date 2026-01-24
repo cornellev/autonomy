@@ -6,35 +6,34 @@ This mainly serves as a host for our [**Issues**](https://github.com/cornellev/a
 
 ## Current Member Projects
 
-### [Project Name 1]
+### Perception
 
 **Responsible**:
 
-| [Member Name 1] | [Member Name 2] | [Member Name 3] |
-| :-----------: | :-----------: | :--------: |
-| <img src="https://github.com/[username1].png" width="180"> | <img src="https://github.com/[username2].png" width="180"> | <img src="https://github.com/[username3].png" width="180"> |
+| [Sophia Tsang](https://github.com/sophtsang) | [Cam Mazzacanne](https://github.com/clmazzac) |
+| :-----------: | :--------: |
+  | <img src="https://github.com/sophtsang.png" width="180"> | <img src="https://github.com/clmazzac.png" width="180"> |
 
 
 [Relevant Milestone](https://github.com/cornellev/autonomy/issues/[issue-number])
 
-
-### [Project Name 2]
-
-**Responsible**:
-
-| [Member Name 1] | [Member Name 2] |
-| :-----------: | :-----------: |
-| <img src="https://github.com/[username1].png" width="180"> | <img src="https://github.com/[username2].png" width="180"> |
-
-
-[Relevant Milestone](https://github.com/cornellev/autonomy/issues/[issue-number])
-
-### [Project Name 3]
+### Localization
 
 **Responsible**:
 
-| [Member Name 1] |
+| [Lucas Libshutz](https://github.com/lucaslibshutz) |
 | :-----------: |
-| <img src="https://github.com/[username1].png" width="180"> |
+| <img src="https://github.com/lucaslibshutz.png" width="180"> |
+
+
+[Relevant Milestone](https://github.com/cornellev/autonomy/issues/[issue-number])
+
+### Simulation
+
+**Responsible**:
+
+| [Jaiden Grimminck](https://github.com/JaidenAGrimminck) |
+| :-----------: |
+| <img src="https://github.com/JaidenAGrimminck.png" width="180"> |
 
 [Relevant Milestone](https://github.com/cornellev/autonomy/issues/[issue-number])
