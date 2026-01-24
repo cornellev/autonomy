@@ -10,7 +10,7 @@ This mainly serves as a host for our [**Issues**](https://github.com/cornellev/a
 
 **Responsible**:
 
-| [Sophia Tsang](https://github.com/sophtsang) | [Cam Mazzacanne](https://github.com/clmazzac) |
+| [Sophia Tsang](https://github.com/sophtsang) | [Cam Mazzacane](https://github.com/clmazzac) |
 | :-----------: | :--------: |
   | <img src="https://github.com/sophtsang.png" width="180"> | <img src="https://github.com/clmazzac.png" width="180"> |
 
