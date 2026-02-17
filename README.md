@@ -21,9 +21,9 @@ This mainly serves as a host for our [**Issues**](https://github.com/cornellev/a
 
 **Responsible**:
 
-| [Lucas Libshutz](https://github.com/lucaslibshutz) |
-| :-----------: |
-| <img src="https://github.com/lucaslibshutz.png" width="180"> |
+| [Lucas Libshutz](https://github.com/lucaslibshutz) | [Smriti Kumar](https://github.com/smriti-kumar) |
+| :-----------: | :-----------: |
+| <img src="https://github.com/lucaslibshutz.png" width="180"> | <img src="https://github.com/smriti-kumar.png" width="180"> |
 
 
 [Relevant Milestone](https://github.com/cornellev/autonomy/issues/[issue-number])
