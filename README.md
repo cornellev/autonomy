@@ -15,7 +15,9 @@ This mainly serves as a host for our [**Issues**](https://github.com/cornellev/a
 | <img src="https://github.com/sophtsang.png" width="180"> | <img src="https://github.com/clmazzac.png" width="180"> | <img src="https://github.com/ThomasXin50.png" width="180"> | <img src="https://github.com/suryacks.png" width="180"> |
 
 
+<!-- 
 [Relevant Milestone](https://github.com/cornellev/autonomy/issues/[issue-number])
+-->
 
 ### Localization
 
@@ -25,8 +27,9 @@ This mainly serves as a host for our [**Issues**](https://github.com/cornellev/a
 | :-----------: | :-----------: |
 | <img src="https://github.com/lucaslibshutz.png" width="180"> | <img src="https://github.com/smriti-kumar.png" width="180"> |
 
-
+<!--
 [Relevant Milestone](https://github.com/cornellev/autonomy/issues/[issue-number])
+-->
 
 ### Simulation
 
@@ -36,4 +39,6 @@ This mainly serves as a host for our [**Issues**](https://github.com/cornellev/a
 | :-----------: |
 | <img src="https://github.com/JaidenAGrimminck.png" width="180"> |
 
+<!--
 [Relevant Milestone](https://github.com/cornellev/autonomy/issues/[issue-number])
+-->
