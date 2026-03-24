@@ -42,3 +42,11 @@ This mainly serves as a host for our [**Issues**](https://github.com/cornellev/a
 <!--
 [Relevant Milestone](https://github.com/cornellev/autonomy/issues/[issue-number])
 -->
+
+### Planning
+
+**Responsible**:
+| [Ibrahim Ahmed](https://github.com/IbrahimAhmed12345) | [Sameer Mehta](https://github.com/sameerkmehta) |
+| :-----------: | :-----------: |
+| <img src="https://github.com/IbrahimAhmed12345.png" width="180"> | <img src="https://github.com/sameerkmehta.png" width="180"> |
+
