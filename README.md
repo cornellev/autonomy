@@ -10,9 +10,9 @@ This mainly serves as a host for our [**Issues**](https://github.com/cornellev/a
 
 **Responsible**:
 
-| [Sophia Tsang](https://github.com/sophtsang) | [Cam Mazzacane](https://github.com/clmazzac) | [Thomas Xin](https://github.com/ThomasXin50) | 
-| :-----------: | :-----------: | :-----------: | 
-| <img src="https://github.com/sophtsang.png" width="180"> | <img src="https://github.com/clmazzac.png" width="180"> | <img src="https://github.com/ThomasXin50.png" width="180">
+| [Sophia Tsang](https://github.com/sophtsang) | [Cam Mazzacane](https://github.com/clmazzac) | [Thomas Xin](https://github.com/ThomasXin50) | [Surya Chandrakasan](https://github.com/suryacks) |
+| :-----------: | :-----------: | :-----------: | :-----------: |
+| <img src="https://github.com/sophtsang.png" width="180"> | <img src="https://github.com/clmazzac.png" width="180"> | <img src="https://github.com/ThomasXin50.png" width="180"> | <img src="https://github.com/suryacks.png" width="180"> |
 
 
 [Relevant Milestone](https://github.com/cornellev/autonomy/issues/[issue-number])
